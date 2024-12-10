@@ -33,6 +33,7 @@ It's a great way to learn.
 * [Visual Recognition System](#build-your-own-visual-recognition-system)
 * [Voxel Engine](#build-your-own-voxel-engine)
 * [Web Browser](#build-your-own-web-browser)
+* [Apps](#build-your-own-applications)
 * [Web Server](#build-your-own-web-server)
 * [Uncategorized](#uncategorized)
 
@@ -395,6 +396,32 @@ It's a great way to learn.
 * [**Rust**: _Let's build a browser engine_](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [**Python**: _Browser Engineering_](https://browser.engineering)
 
+#### Build your own `Applications`
+
+### Flutter:[videos]
+
+- [Amazon Clone with Admin Panel](https://youtu.be/O3nmP-lZAdg)
+- [Food Delivery App](https://youtu.be/7dAt-JMSCVQ)
+- [Google Docs Clone](https://youtu.be/0_GJ1w_iG44)
+- [Instagram Clone](https://youtu.be/mEPm9w5QlJM)
+- [Multiplayer TicTacToe Game](https://youtu.be/Aut-wfXacXg)
+- [TikTok Clone](https://youtu.be/4E4V9F3cbp4)
+- [Ticket Booking App](https://youtu.be/71AsYo2q_0Y)
+- [Travel App](https://youtu.be/x4DydJKVvQk)
+- [Twitter clone](https://youtu.be/XnxZLhtkFeg?si=LAhDzc0jxHAwJ_Fs)
+- [Twitch Clone](https://youtu.be/U9YKZrDX0CQ)
+- [WhatsApp Clone](https://youtu.be/yqwfP2vXWJQ)
+- [Wordle Clone](https://youtu.be/_W0RN_Cqhpg)
+- [Zoom Clone](https://youtu.be/sMA1dKbv33Y)
+- [Netflix Clone](https://youtu.be/J8IFNKzs3TI)
+- [Voice assistant](https://youtu.be/Q_pz4xFow3Q?si=hfc638RSFAt9vsFb)
+
+- * [**Ruby**: _Creating a Linux Desktop application with Ruby_](https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby)
+- * [**Python**: _How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes_](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
+- * [**Java**: _How to Build an Android Reddit App_](https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y) [video]
+- * [**JavaScript**: _Build a ride hailing app with React Native_](https://pusher.com/tutorials/ride-hailing-react-native)
+
+
 #### Build your own `Web Server`
 
 * [**C#**: _Writing a Web Server from Scratch_](https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch)
@@ -429,13 +456,11 @@ It's a great way to learn.
 * [**Go**: _Build A Simple Terminal Emulator In 100 Lines of Golang_](https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go/)
 * [**Go**: _Let's Create a Simple Load Balancer_](https://kasvith.me/posts/lets-create-a-simple-lb-go/)
 * [**Go**: _Video Encoding from Scratch_](https://github.com/kevmo314/codec-from-scratch)
-* [**Java**: _How to Build an Android Reddit App_](https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y) [video]
 * [**JavaScript**: _Build Your Own Module Bundler - Minipack_](https://github.com/ronami/minipack)
 * [**JavaScript**: _Learn JavaScript Promises by Building a Promise from Scratch_](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
 * [**JavaScript**: _Implementing promises from scratch (TDD way)_](https://www.mauriciopoppe.com/notes/computer-science/computation/promises/)
 * [**JavaScript**: _Implement your own — call(), apply() and bind() method in JavaScript_](https://blog.usejournal.com/implement-your-own-call-apply-and-bind-method-in-javascript-42cc85dba1b)
 * [**JavaScript**: _JavaScript Algorithms and Data Structures_](https://github.com/trekhleb/javascript-algorithms)
-* [**JavaScript**: _Build a ride hailing app with React Native_](https://pusher.com/tutorials/ride-hailing-react-native)
 * [**JavaScript**: _Build Your Own AdBlocker in (Literally) 10 Minutes_](https://levelup.gitconnected.com/building-your-own-adblocker-in-literally-10-minutes-1eec093b04cd)
 * [**Kotlin**: _Build Your Own Cache_](https://github.com/kezhenxu94/cache-lite)
 * [**Lua**: _Building a CDN from Scratch to Learn about CDN_](https://github.com/leandromoreira/cdn-up-and-running)
@@ -455,7 +480,7 @@ It's a great way to learn.
 * [**PHP**: _Modern PHP Without a Framework_](https://kevinsmith.io/modern-php-without-a-framework)
 * [**PHP**: _Code a Web Search Engine in PHP_](https://boyter.org/2013/01/code-for-a-search-engine-in-php-part-1/)
 * [**Python**: _Build a Deep Learning Library_](https://www.youtube.com/watch?v=o64FV-ez6Gw) [video]
-* [**Python**: _How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes_](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
+
 * [**Python**: _Continuous Integration System_](http://aosabook.org/en/500L/a-continuous-integration-system.html)
 * [**Python**: _Recommender Systems in Python: Beginner Tutorial_](https://www.datacamp.com/community/tutorials/recommender-systems-python)
 * [**Python**: _Write SMS-spam detector with Scikit-learn_](https://medium.com/@kopilov.vlad/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2)
@@ -467,7 +492,7 @@ It's a great way to learn.
 * [**Python**: _JSON Decoding Algorithm_](https://github.com/cheery/json-algorithm)
 * [**Python**: _Build your own Git plugin with python_](https://joshburns-xyz.vercel.app/posts/build-your-own-git-plugin)
 * [**Ruby**: _A Pedometer in the Real World_](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
-* [**Ruby**: _Creating a Linux Desktop application with Ruby_](https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby)
+
 * [**Rust**: _Building a DNS server in Rust_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 * [**Rust**: _Writing Scalable Chat Service from Scratch_](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [**Rust**: _WebGL + Rust: Basic Water Tutorial_](https://www.chinedufn.com/3d-webgl-basic-water-tutorial/)
